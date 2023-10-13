@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Find a rain coat",
+      "day": "Saturday at 9",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "wash hair",
+      "day": "Friday 13th at 2:00pm",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "get bentley from pet hotel",
+      "day": "Saturday ",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Drink more water",
+      "day": "Sunday ",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Arrive to the comedy show on time",
+      "day": "Sunday at 6",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
